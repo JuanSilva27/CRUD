@@ -44,4 +44,4 @@ Thumbs.db
 *.config
 node_modules/
 .vscode/
-package-lock
+package-lock.json
